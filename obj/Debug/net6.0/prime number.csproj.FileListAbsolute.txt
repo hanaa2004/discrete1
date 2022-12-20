@@ -1,0 +1,5 @@
+C:\Users\Hanaa\source\repos\prime number\obj\Debug\net6.0\prime number.csproj.AssemblyReference.cache
+C:\Users\Hanaa\source\repos\prime number\obj\Debug\net6.0\prime number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hanaa\source\repos\prime number\obj\Debug\net6.0\prime number.AssemblyInfoInputs.cache
+C:\Users\Hanaa\source\repos\prime number\obj\Debug\net6.0\prime number.AssemblyInfo.cs
+C:\Users\Hanaa\source\repos\prime number\obj\Debug\net6.0\prime number.csproj.CoreCompileInputs.cache
